@@ -1,0 +1,13 @@
+{
+  "database_info":
+  {
+    "database_hostname": "127.0.0.1",
+    "database_port": 27017,
+    "database_name": "mbt",
+    "collection": "coinklines"
+  },
+  "websocket_info":
+  {
+    "url": "wss://stream.binance.com:9443/stream?streams=btcusdt@kline_1m"
+  }
+}
